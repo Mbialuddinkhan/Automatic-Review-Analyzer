@@ -22,5 +22,4 @@ main.py is a skeleton script that calls these functions and allows you to conduc
 
 utils.py is a Python file that contains utility functions that the staff has created for you.
 
-test.py is a Python script that tests a handful of the functions you'll use. Please keep in mind that these tests are offered to aid in the debugging of your implementation and are not necessarily indicative of the tests used for online grading. Feel free to add more test cases locally to ensure that your code is correct before submitting it to the codeboxes' online graders.
-
+test.py is a Python script that tests a handful of the functions you'll use. Please keep in mind that these tests are offered to aid in the debugging of your implementation
